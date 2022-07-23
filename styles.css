@@ -1,3 +1,47 @@
+
 p {
-  text-indent: 10px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+header {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+figure {
+  text-align: center;
+}
+
+main {
+  background-color: rgb(191, 244, 191);
+}
+
+header {
+  background-color: rgb(21, 71, 33);
+}
+
+body {
+  margin: 8px;
+  font-display: black;
+}
+
+#mainHeading {
+  color: red;
+}
+
+.funParagraph {
+  background-color: rgb(245, 185, 185);
+  color: green;
 }
